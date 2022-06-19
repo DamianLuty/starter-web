@@ -1,3 +1,4 @@
 asd.txt
 *.log
 log/
+*.orig
